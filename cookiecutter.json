@@ -2,9 +2,9 @@
   "project_name": "hypermodern-python",
   "package_name": "{{ cookiecutter.project_name.replace('-', '_') }}",
   "friendly_name": "{{ cookiecutter.project_name.replace('-', ' ').title() }}",
-  "author": "Claudio Jolowicz",
-  "email": "mail@claudiojolowicz.com",
-  "github_user": "cjolowicz",
+  "author": "Lucas Bignone",
+  "email": "lbignone@iafe.uba.ar",
+  "github_user": "lbignone",
   "version": "0.0.0",
   "license": ["MIT", "Apache-2.0", "GPL-3.0"]
 }
